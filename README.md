@@ -1,5 +1,5 @@
 # Classification -- Predicting Customer Churn
-
+## TEAM PARIS 
 ## Introduction
 
 Customer attrition is one of the biggest expenditures of any
