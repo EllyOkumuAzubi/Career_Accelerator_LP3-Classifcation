@@ -1,6 +1,6 @@
 # Classification -- Predicting Customer Churn
 ## TEAM PARIS 
-## Introduction
+## Introduction commit 1 
 
 Customer attrition is one of the biggest expenditures of any
 organization. Customer churn otherwise known as customer attrition or
